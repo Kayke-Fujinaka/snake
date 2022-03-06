@@ -1,6 +1,4 @@
-
-
-# Disney+ Aplication
+# The Snake Game
 
 <img src="./img/img.png" width="450px" alt="Disney+ Page">
 
