@@ -1,37 +1,41 @@
-# The Snake Game
+# THE SNAKE GAME
 
-<img src="./img/img.png" width="450px" alt="Disney+ Page">
+<img src="./img/img.gif" width="800px" height="400px" alt="Gif do Teste">
 
->  The Snake Game
+>  The Snake Game: A fun game to play while waiting for things
 
-Confira a aplicação: https://the-snakegame.netlify.app
+Check the Application: https://the-snakegame.netlify.app
+## :page_facing_up: Explanation
 
-## 🚀 Technologies
+A simple game to play while you're waiting for websites to load! Move the snake around with the arrow keys, eat the red dots to grow bigger, and avoid hitting your own tail.
+## :rocket: Technologies ##
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The following tools were used in this project:
 
-- JavaScript
-- CSS
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+## 🤝 Collaborators
 
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+&#xa0;
+
+<a href="#top">Back to top</a>
