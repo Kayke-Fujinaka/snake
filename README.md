@@ -1,6 +1,6 @@
 # THE SNAKE GAME
 
-<img src="./img/img.gif" width="800px" height="400px" alt="Gif do Teste">
+<img src="./img/img.gif" alt="Gif do Teste">
 
 >  The Snake Game: A fun game to play while waiting for things
 
