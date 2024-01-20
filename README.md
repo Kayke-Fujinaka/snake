@@ -2,19 +2,21 @@
 
 <img src="./img/img.gif" alt="Gif do Teste">
 
->  The Snake Game: A fun game to play while waiting for things
+>  The Snake Game: A Classic Reinvented for Modern Browsers
 
 Check the Application: https://the-snakegame.netlify.app
 ## :page_facing_up: Explanation
 
-A simple game to play while you're waiting for websites to load! Move the snake around with the arrow keys, eat the red dots to grow bigger, and avoid hitting your own tail.
+Rediscover the timeless classic with our rendition of The Snake Game. Designed for those idle moments, this game offers a delightful way to pass the time. Navigate the snake using arrow keys, munch on red dots to increase its length, and skillfully avoid colliding with your own tail. Simple, engaging, and addictive!
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
 ## 🤝 Collaborators
 
 We thank the following people who contributed to this project:
